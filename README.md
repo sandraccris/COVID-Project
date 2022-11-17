@@ -1,1 +1,1 @@
-# COVID-Project
+Covid Project (Alex Freberg)
