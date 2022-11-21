@@ -1,1 +1,2 @@
-Covid Project (Alex Freberg)
+Covid Project - Data Exploration 
+(Alex Freberg)
